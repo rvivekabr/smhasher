@@ -7,7 +7,8 @@ Automatically exported from code.google.com/p/smhasher
 
 Unlike cryptographic hash functions, it is not specifically designed to be difficult to reverse by an adversary, making it unsuitable for cryptographic purposes."
 
--- From Wikipedia, the free encyclopedia, https://en.wikipedia.org/wiki/MurmurHash
-
+_From Wikipedia, the free encyclopedia, https://en.wikipedia.org/wiki/MurmurHash_
+_ _ _
 Exported from https://code.google.com/p/smhasher/
+
 First found at https://sites.google.com/site/murmurhash/
